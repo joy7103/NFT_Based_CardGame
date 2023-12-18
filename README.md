@@ -4,7 +4,7 @@ such as blockchain and smart contracts, to create a decentralized and transparen
 The problem being addressed is the lack of trust, fairness, and ownership in traditional centralized gaming platforms, 
 where players often face challenges related to cheating, fraud, and limited control over in-game assets.
 By utilizing Web3 technologies, the project aims to provide a solution that offers a secure and verifiable gaming environment, where players can engage in battles, 
-earn rewards, and own unique in-game assets.
+earn rewards, and own unique in-game assets. 
 
 Every element of this project is facilitated by blockchain and smart contract functionalities.
 
